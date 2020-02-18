@@ -1,10 +1,10 @@
-#96BoardsSOMCarrier
+# 96BoardsSOMCarrier
 
 These are assets for making a 96Boards SoM Carrier as described by the [Linaro spec v1.0](http://static.linaro.org/assets/specifications/96BoardsComputeSoMSpecificationV1.0.pdf). [Local copy] (https://github.com/PowersConsulting/96BoardsSOMCarrier/blob/master/Documents/Specification/96BoardsComputeSoMSpecificationV1.0.pdf)
 
 Currently only Altium is being implemented, but expect to include similar KiCAD components if there is any interest.
 
-##Reference
+## Reference
 
 Some choices have been informed by the only commercially available SoMs we could find, the [BeiQi/BearKey TB96-AI](http://www.bearkey.com.cn/product_detail.html?pid=TB-96AI) & [BeiQi/BearKey TB-96AIoT](http://www.bearkey.com.cn/product_detail.html?pid=TB-96AIoT). The published [TB96-AI schematics] (https://www.96boards.org/documentation/som/tb-96ai/hardware-docs/files/tb-96ai-schematics.pdf) have some useful information. [Local Copy](https://github.com/PowersConsulting/96BoardsSOMCarrier/blob/master/Documents/Reference/tb-96ai-schematics.pdf)
 
